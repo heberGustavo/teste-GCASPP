@@ -15,6 +15,7 @@ Note: To run the system it's necessary to change the database path in the file: 
 Maybe is necessary change "build action" in scripts. To run correctly it's necessary put: Embedded resourse
 
 Solution > 4-Migration > Scripts > All scripts
+
 ![image](https://github.com/heberGustavo/teste-GCASPP/assets/44476616/70ba6bd1-6058-4cd1-a380-2b458a112d09)
 
 
